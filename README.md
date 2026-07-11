@@ -2,17 +2,20 @@
 
 Welcome to my DSA repository! This space tracks my daily problem-solving journey, conceptual implementations, and interview preparation.
 
-## 🛠️ Tech Stack
-* **Language:** C++ / Java / Python (Choose yours)
-* **Platforms Used:** LeetCode, HackerRank, GeeksforGeeks
+> **Every Day. Better Than Yesterday.**
 
-## 📅 Progress Tracker
+Welcome to my DSA repository! This repo tracks my daily journey of solving Data Structures & Algorithms problems to improve problem-solving skills, strengthen fundamentals, and prepare for coding interviews.
 
-| Topic | Problem Link | Solution | Difficulty | Time Complexity |
-| :--- | :--- | :--- | :--- | :--- |
-| Arrays | [Two Sum](https://leetcode.com) | [Solution](./Data-Structures/Arrays/TwoSum.cpp) | Easy | $O(N)$ |
-| Linked List | [Reverse List](https://leetcode.com) | [Solution](./Data-Structures/Linked-Lists/Reverse.cpp) | Easy | $O(N)$ |
+## 🎯 Goals
 
-## 📖 Key Resources Followed
-* [NeetCode Roadmap](https://neetcode.io)
-* Striver's A2Z DSA Sheet
+* 📅 Solve DSA problems daily
+* 🧠 Learn & optimize algorithms
+* 💻 Write clean, efficient Java code
+* 🚀 Stay consistent
+
+## ☕ Language & Platform
+
+* Java - Leetcode
+
+> **"Consistency compounds. Every commit counts."** 💙
+
